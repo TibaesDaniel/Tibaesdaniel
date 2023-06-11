@@ -11,7 +11,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TibaesDaniel&bg_color=0d1117&color=ffffff&line=00bfbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h2></h2> 
 
 <div style="display: inline-block"><br>
   <h2>Habilidades em Estudo</h2>
