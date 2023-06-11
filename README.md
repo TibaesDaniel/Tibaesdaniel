@@ -13,5 +13,17 @@
 
 <h2></h2> 
 
+<div style="display: inline-block"><br>
+  <h2>Habilidades em Estudo</h2>
+  <img align="center" alt="Dan-Js" height="50" width="50" src="./arquivo-html.png">
+  <img align="center" alt="Dan-Js" height="50" width="50" src="./arquivo-css.png">
+  <img align="center" alt="Dan-Js" height="50" width="50" src="./js.png">
+  <img align="center" alt="Dan-Js" height="50" width="50" src="./codigo-php">
+  <img align="center" alt="Dan-Js" height="50" width="50" src="./sql.png">
+  <img align="center" alt="Dan-Js" height="50" width="50" src="./linux (1).png">
+  
+   <div style="display: inline-block"><br>
+  <h2>Sistemas Operacionais</h2>
+  <img align="center" alt="Dan-Js" height="50" width="50" src="./janelas.png">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
