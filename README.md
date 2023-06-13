@@ -13,13 +13,12 @@
 
 
 <div style="display: inline-block"><br>
-  <h2>Habilidades em Estudo</h2>
+  <h2>Habilidades</h2>
   <img align="center" alt="Dan-Js" height="50" width="50" src="./arquivo-html.png">
   <img align="center" alt="Dan-Js" height="50" width="50" src="./arquivo-css.png">
   <img align="center" alt="Dan-Js" height="50" width="50" src="./js.png">
   <img align="center" alt="Dan-Js" height="50" width="50" src="./codigo-php.png">
-  <img align="center" alt="Dan-Js" height="50" width="50" src="./sql.png">
-  <img align="center" alt="Dan-Js" height="50" width="50" src="./linux (1).png">
+ 
   
    <div style="display: inline-block"><br>
   <h2>Sistemas Operacionais</h2>
