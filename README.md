@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Daniel+Tibães+Nogueira;Tenho+26+anos;Moro+no+Brasil,+MG;Faço+Bacharelado+em+Engenharia+de+Softaware+na+Faculdade+Pitágoras;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
+<h2 align="center">Seja Bem Vindo!!!</h2>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TibaesDaniel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Daniel+Tibães github+stats" /> 
