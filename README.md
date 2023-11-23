@@ -16,6 +16,7 @@
   <img align="center" alt="Dan-Js" height="50" width="50" src="./arquivo-html.png">
   <img align="center" alt="Dan-Js" height="50" width="50" src="./arquivo-css.png">
   <img align="center" alt="Dan-Js" height="50" width="50" src="./js.png">
+  <img align="center" alt="Dan-Js" height="50" width="50" src="./python.png">
  
   
    <div style="display: inline-block"><br>
