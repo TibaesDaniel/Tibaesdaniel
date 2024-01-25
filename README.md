@@ -14,9 +14,6 @@
 <div style="display: inline-block"><br>
   <h2>Habilidades</h2>
   <img align="center" alt="Dan-Js" height="50" width="50" src="./pythonn.png">
-  <img align="center" alt="Dan-Js" height="50" width="50" src="./php.png">
-  <img align="center" alt="Dan-Js" height="50" width="50" src="./arquivo-html.png">
-  <img align="center" alt="Dan-Js" height="50" width="50" src="./arquivo-css.png">
   
   
  
