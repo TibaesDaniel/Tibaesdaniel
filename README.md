@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Seja%20Bem%20Vindo(a)!!!&textBg=false&reversal=true&section=header&fontAlign=50&animation=fadeIn&descAlign=50&fontAlignY=40&fontSize=50">
-<h2 align="center" font-size="10">Olá, me chamo Daniel Tibães, sou desenvolvedor back-end e automações em Python!</h2>
+<h2 align="center" font-size="10">Olá, me chamo Daniel Tibães, sou desenvolvedor Android e Backend Kotlin!</h2>
   <p>📍 Contagem, Minas Gerais, Brasil</p>
   <p>🎸 Sobre mim: Apaixonado por música e esportes, encontro alegria em tocar violão e jogar basquete. Sou um ávido espectador de séries, com “The Walking Dead” e “The   Rookie” entre minhas favoritas.</p>
   <p>🎓 Educação: Atualmente estou expandindo meus horizontes acadêmicos cursando Analise e Desenvolvimento de Sistemas na Uniasselvi. Além disso, sou certificado em     Algoritmo e Python pela DevMedia, em Lógica de Programação e em Microsoft Azure IA pela DIO,.</p>
-  <p>🛠️ Habilidades Técnicas: Minha caixa de ferramentas técnica inclui Python, HTML, CSS, JavaScript e conhecimentos básicos de React.JS. Além disso, tenho experiência com GLPI, TacticalRMM e Zabbix.</p>
+  <p>🛠️ Habilidades Técnicas: Minha caixa de ferramentas técnica inclui Kotlin, Android, Python, HTML, CSS, JavaScript e conhecimentos básicos de React.JS. Além disso, tenho experiência com GLPI, TacticalRMM e Zabbix.</p>
   <p>🌍 Objetivos Profissionais: Meu sonho é expandir minhas fronteiras, trabalhar no exterior e mergulhar em uma vida repleta de código e descobertas tecnológicas.</p>
 <h2></h2> 
 <div align="center">  
